@@ -24,6 +24,7 @@ CC-BY-SA material also remain CC-BY-SA, free for anyone, under the same terms.
 | `potop_caine.png` (the decks) | [LPC] bears, deer, lions and more (`dog, shiba (Sevarihk).png`), via the dog of chapter 13 | Yes (in chapter 13): recoloured like a sheepdog, rearranged, the shadow; copied here unchanged |
 | `sac.png`, `fan_gramada.png`, `merinde.png` (the food on the decks) | Nothing from the packs | Drawn by us (`unelte/lpc/potop_hrana.py`, variant B) |
 | `salcam_1.png`, `salcam_2.png` | [LPC] Trees (`trees-green.png`) | Yes: cut out; the second one turned around, with slightly more yellowish foliage |
+| `salcam_1_cade_*.png`, `salcam_2_cade_*.png` | [LPC] Trees (`trees-green.png`), through the acacias above | Yes: rotated in four steps of falling (RotSprite, `unelte/lpc/potop_salcam_cade.py`), the shadow left in place and faded out step by step |
 | `buturuga.png`, `trunchi.png` | [LPC] Flowers / Plants / Fungi / Wood (`plants.png`) | No, only cut out |
 | `butoi.png`, `galeata.png`, `galeata_apa.png` | LPC Base Assets (`barrel.png`, `buckets.png`) | No, only cut out |
 | `arca_0.png` … `arca_4.png`, `arca_smoala.png`, `arca_usa.png`, `arca_rampa.png`, `arca_fereastra.png`, `arca_gol_usa.png`, `arca_gaura.png` | Nothing from the packs | Drawn by us: the ark in five stages of work, the pitch, the door and the gangway |

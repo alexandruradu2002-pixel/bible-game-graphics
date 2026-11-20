@@ -5,7 +5,7 @@ on OpenGameArt.org, from the layers of the LPC character generator and from draw
 (dark outline, stepped shading, light from the top left).
 
 **What the licences require:** the names of the authors below and the links to their pages must appear on the
-Credits page. Images made from CC-BY-SA material (the ground, the people, the camel, the cows, the bird, the horse) remain CC-BY-SA 3.0:
+Credits page. Images made from CC-BY-SA material (the ground, the people, the cows, the bird, the horse) remain CC-BY-SA 3.0:
 anyone may reuse them under the same conditions.
 
 ## Our files and their sources
@@ -16,7 +16,7 @@ anyone may reuse them under the same conditions.
 | `iosif_ziduri.png` (the adobe walls, their shadow, Pharaoh's red carpet) | Nothing from the packs | Drawn by us (in code) |
 | `iosif_pardoseala_a.png`, `iosif_pardoseala_b.png`, `iosif_pardoseala_c.png` (the variants of the floor in Pharaoh's hall: polished limestone flagstones, a chessboard of limestone and sandstone, alabaster) | Nothing from the packs | Drawn by us (in code, `unelte/lpc/palat_variante.gd`) on 6 Nov 2026, in the LPC style |
 | `iosif_haina.png`, `iosif_rob.png`, `iosif_tuns.png`, `iosif_egipt.png`, `iosif_iacov.png`, the ten brothers, `iosif_omul.png`, the people of Shechem, the Ishmaelite merchants, `iosif_putifar.png`, the servants, the jailer, the guard, the cupbearer, the baker, the prisoners, `iosif_faraon.png`, the magician, the official, the Egyptians on the road | Universal LPC Spritesheet Character Generator: the layers in the table below (walking in four directions) | Yes: recoloured (skin, hair, clothes; Joseph's robe in red, yellow, blue and green stripes; Pharaoh's headcloth in gold and blue stripes), the gold necklace drawn by us, the eyes made brown, the "breathing" frame, the kneeling man, the shadow |
-| `iosif_camila.png` | LPC style farm animals (`llama_walk_0.png`) | Yes: recoloured in the colour of a camel, the hump and the saddlebags with goods drawn by us, shadow |
+| `iosif_camila.png` (the camels of the Ishmaelites, since 16 Nov 2026) | Nothing from the packs: the camel from The Well (`fantana_camila_1.png`), copied | Drawn by us (`unelte/lpc/fantana_camila.py`); here only the rows with standing and walking. Until 16 Nov 2026 it was the llama from LPC style farm animals, with the hump and the saddlebags drawn by us |
 | `iosif_vis_vaca_grasa.png`, `iosif_vis_vaca_slaba.png` | LPC style farm animals (`cow_walk.png`) | Yes: recoloured (red with white; grey); the thin one with a tucked-in belly and the ribs showing |
 | `iosif_vis_pasare.png` | [LPC] Birds (`bird_3_sparrow.png`) | No, only rearranged |
 | `iosif_cal.png` | [LPC] Horses (`horse-white_0.png`) | Yes: the walk to the right, cut out, shadow |
@@ -43,7 +43,7 @@ The sounds (`sunete/iosif/`) are synthesised by us (`unelte/sunete_iosif.py`), w
 - `mountains.png`: Lanea Zimmerman (Sharm). Licence: CC-BY-SA 3.0 / GPL 3.0 (Sharm's works are also OGA-BY 3.0).
 - https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles
 
-### LPC style farm animals (the camel, from the llama; the cows of the dream)
+### LPC style farm animals (the cows of the dream)
 - Author: Daniel Eddeland (daneeklu), commissioned by tebruno99. Licence: CC-BY 3.0 / GPL 2.0.
 - https://opengameart.org/content/lpc-style-farm-animals
 

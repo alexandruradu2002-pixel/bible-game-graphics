@@ -65,6 +65,7 @@ Romanian (`copac_1.png` is "tree 1"); the credits list every file under that nam
 | Samuel | [graphics/samuel/](graphics/samuel/) | [credits/samuel.md](credits/samuel.md) |
 | Saul | [graphics/saul/](graphics/saul/) | [credits/saul.md](credits/saul.md) |
 | David and Goliath | [graphics/david-and-goliath/](graphics/david-and-goliath/) | [credits/david-and-goliath.md](credits/david-and-goliath.md) |
+| Zechariah | [graphics/zechariah/](graphics/zechariah/) | [credits/zechariah.md](credits/zechariah.md) |
 | Wild animals (shared by several chapters) | [graphics/wild-animals/](graphics/wild-animals/) | [credits/wild-animals.md](credits/wild-animals.md) |
 | The Chapters screen: the map | [graphics/chapters-map/](graphics/chapters-map/) | [credits/chapters-map.md](credits/chapters-map.md) |
 | The Chapters screen: the regions of the map | [graphics/map-regions/](graphics/map-regions/) | in [credits/shared.md](credits/shared.md) |
@@ -74,4 +75,4 @@ Romanian (`copac_1.png` is "tree 1"); the credits list every file under that nam
 A missing or wrong credit, or a question about the drawings: support@swiftcaresystems.com
 (SWIFT CARE SYSTEMS S.R.L., the company that makes the game).
 
-Last updated: 15 Nov 2026.
+Last updated: 20 Nov 2026.
